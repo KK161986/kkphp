@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Kalai Kannan 8f10547f</title>
+<title> Kalai Kannan 8f10547f </title>
 <?php require_once "Bootstrap.php"; ?>
 </head>
 <body>
@@ -11,7 +11,7 @@
 partially done and serves only as a starting point for the assignment.
 </p>
 <p>
-<a href="login.php">Please Login</a>
+<a href="login.php">Please Log In</a>
 </p>
 <p>
 Attempt to go to 
