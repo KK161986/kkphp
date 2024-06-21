@@ -2,8 +2,7 @@
 <html>
 <head>
 <title> Kalai Kannan 8f10547f </title>
- <a href="login.php">Please Log In</a>
-<?php require_once "bootstrap.php"; ?>
+ <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
