@@ -2,7 +2,7 @@
 <html>
 <head>
 <title></title>
-<?php require_once "bootstrap.php"; ?>
+<?php require_once "Bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
