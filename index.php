@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>8f10547f</title>
 <?php require_once "Bootstrap.php"; ?>
 </head>
 <body>
