@@ -27,7 +27,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <!DOCTYPE html>
 <html>
 <head>
-<?php require_once "bootstrap.php"; ?>
+<?php require_once "Bootstrap.php"; ?>
 <title>8f10547f</title>
 </head>
 <body>
