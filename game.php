@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>8f10547f</title>
+<title> Kalai Kannan 8f10547f</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
