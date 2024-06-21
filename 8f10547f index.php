@@ -2,7 +2,7 @@
 <html>
 <head>
 <title> Kalai Kannan 8f10547f </title>
-<?php require_once "Bootstrap.php"; ?>
+<?php require_once "bootstrap.php"; ?>
 </head>
 <body>
 <div class="container">
